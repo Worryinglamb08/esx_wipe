@@ -8,3 +8,5 @@ Add the SQL file to your BDD
 Add 'start esx_wipe' in your .cfg
 
 The name of the item has this give and {wipe}
+
+As all BDDs are not all the same, you may need to adjust it for your own (add or remove tables)
